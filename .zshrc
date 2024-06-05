@@ -73,7 +73,7 @@ alias code='code-insiders'
 
 # update path
 export PATH=$PATH:/user/local/go/bin
-export PATH=$PATH:/home/brecht/.local/bin
+export PATH=$PATH:~/.local/bin
 
 #change colors for fzf_oxide
 export FZF_DEFAULT_OPTS="--color=bg:#bcbcbc"
